@@ -6,7 +6,7 @@ Teacher List
 202-C List
 1. Idria, Tracy Allen P.
 2. Golosino, Atheena Ghabriell M.
-3.Jesoro, John Lui R.
+3.
 4.
 5. 
 6. 
@@ -16,7 +16,7 @@ Teacher List
 10. 
 11. 
 12. 
-13. 
+13. Jesoro, John Lui R.
 14. 
 15. 
 16. 
