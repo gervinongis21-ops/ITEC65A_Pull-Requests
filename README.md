@@ -69,9 +69,9 @@ Teacher List
 20.
 21. 
 22.
-23. --
+23. 
 24. 
-25. --
+25. 
 26. Signo, Gervin V.    
 
 // You can add numbers to continue the list
